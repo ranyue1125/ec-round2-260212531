@@ -18,3 +18,16 @@ CMakeUserPresets.json
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #cmake-build-*
 build/
+Debug/
+Release/
+.vscode/
+.settings/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+.mxproject
+mx.scratch
+!.settings
